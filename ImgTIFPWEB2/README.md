@@ -99,6 +99,7 @@ plataforma. Cada entrada en la tabla representa una marca  ́unica
 
 ##  Diccionario de datos
 [![Product](Diccio "Product")](https://github.com/Melvin-Castro/TIF-PWEB2/blob/main/ImgTIFPWEB2/img/Diccionario1.jpg "Product")
+[![Product](Diccio "Product")](https://github.com/Melvin-Castro/TIF-PWEB2/blob/main/ImgTIFPWEB2/img/Diccionario2.jpg "Product")
 ##  Diagrama Entidad-Relación
     ...
 
