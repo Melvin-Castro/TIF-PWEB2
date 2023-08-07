@@ -98,7 +98,7 @@ cenar y mostrar informaci ́on relevante sobre las distintas marcas de productos
 plataforma. Cada entrada en la tabla representa una marca  ́unica
 
 ##  Diccionario de datos
-[![Product](Diccio "Product")](http://https://github.com/Melvin-Castro/TIF-PWEB2/blob/main/ImgTIFPWEB2/img/Diccionario1.jpg "Product")
+[![Product](Diccio "Product")](\img\Diccionario1 "Product")
 ##  Diagrama Entidad-Relación
     ...
 
