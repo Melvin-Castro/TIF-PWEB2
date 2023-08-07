@@ -48,6 +48,8 @@
         <li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
         </ul>
         </td>
+    </tr>
+    <tr>
         <td colspan="3">INTEGRANTES:
             <ul>
             <li>Melvin Elian Castro Calle</li>
