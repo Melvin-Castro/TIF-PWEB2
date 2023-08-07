@@ -13,7 +13,7 @@
     </theader>
     <tbody>
         <tr>
-        <td colspan="2"><span style="font-weight:bold;">Proyecto web</span>: Desarrollo de una aplicación web para inscripción de laboratorios</td>
+        <td colspan="2"><span style="font-weight:bold;">Proyecto web</span>: Tienda Virtual</td>
         </tr>
         <tr>
         <td colspan="2"><span style="font-weight:bold;">Fecha</span>:  2023/06/08</td>
