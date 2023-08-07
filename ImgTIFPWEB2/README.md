@@ -56,8 +56,8 @@
             <li>Franco Calcina Flores</li>
             <li>Cristhian Willians Puma Larico</li>
             <li>Edgar Raul Almanza Mamani</li>
-            <\ul>
-        <\td>
+            </ul>
+        </td>  
     </<tr>
 </tdbody>
 </table>
