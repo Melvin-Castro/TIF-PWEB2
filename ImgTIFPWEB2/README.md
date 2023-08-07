@@ -16,7 +16,7 @@
         <td colspan="2"><span style="font-weight:bold;">Proyecto web</span>: Desarrollo de una aplicación web para inscripción de laboratorios</td>
         </tr>
         <tr>
-        <td colspan="2"><span style="font-weight:bold;">Fecha</span>:  2022/08/09</td>
+        <td colspan="2"><span style="font-weight:bold;">Fecha</span>:  2023/06/08</td>
         </tr>
     </tbody>
 </table>
@@ -48,6 +48,14 @@
         <li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
         </ul>
         </td>
+        <td colspan="3">INTEGRANTES:
+            <ul>
+            <li>Melvin Elian Castro Calle</li>
+            <li>Franco Calcina Flores</li>
+            <li>Cristhian Willians Puma Larico</li>
+            <li>Edgar Raul Almanza Mamani</li>
+            <\ul>
+        <\td>
     </<tr>
 </tdbody>
 </table>
